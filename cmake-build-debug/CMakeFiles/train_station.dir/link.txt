@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/train_station.dir/main.c.o CMakeFiles/train_station.dir/train.c.o  -o train_station 
